@@ -8,7 +8,7 @@ Este projeto simula a análise de uma base de dados sobre Gasolina. O objetivo �
 - Revendas acima da Média
 - Preços médios por estado, bandeiras e dia
 
-<img src="imagens/Dash-final.jpg" alt="Dashboard Gasolina Power BI" width="600"/>
+<img src="imagens/Dash-final.png" alt="Dashboard Gasolina Power BI" width="600"/>
 
 ## 🧠 Objetivos do Projeto
 
